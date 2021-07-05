@@ -1,0 +1,5 @@
+name: 'Template'
+main: 'com.github.sterse.template.PluginTemplate'
+version: '${project.version}'
+api-version: '${spigot.api.version}'
+author: 'Sterse'
