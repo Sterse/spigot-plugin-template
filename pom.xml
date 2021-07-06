@@ -19,6 +19,14 @@
       <url>https://choosealicense.com/licenses/gpl-3.0/</url>
     </license>
   </licenses>
+  <ciManagement>
+    <system>GitHub Actions</system>
+    <url>https://github.com/Sterse/spigot-plugin-template/actions</url>
+  </ciManagement>
+  <issueManagement>
+    <system>GitHub Issues</system>
+    <url>https://github.com/Sterse/spigot-plugin-template/issues</url>
+  </issueManagement>
   <inceptionYear>2021</inceptionYear>
   <repositories>
     <repository>
