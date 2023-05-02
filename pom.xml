@@ -9,7 +9,7 @@
   <name>Template</name>
   <packaging>jar</packaging>
   <properties>
-    <spigot.api.version>1.17</spigot.api.version>
+    <spigot.api.version>1.19.4</spigot.api.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
   </properties>
